@@ -1,8 +1,10 @@
-# WINDLINE 1.1.0
+# WINDLINE 1.1.1
 
-Full public web release of the WINDLINE sailing game (version 1.1.0, rules m12.0). The existing URL is retained so earlier links keep working.
+Full public web release of the WINDLINE sailing game (version 1.1.1, rules m12.1). The existing URL is retained so earlier links keep working.
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
+
+New in 1.1.1: more varied harbor-to-harbor distances. Consecutive passages prefer a different length while preserving safe arrival, short recovery passages and the original opening.
 
 New in 1.1.0: random mermaid, whale and pirate encounters with their own artwork, warning cues and rewards. From passage two, up to one encounter may appear per passage. The opening and recovery passages stay quiet.
 
