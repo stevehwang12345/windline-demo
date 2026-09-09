@@ -1,8 +1,10 @@
-# WINDLINE 1.1.1
+# WINDLINE 1.2.0
 
-Full public web release of the WINDLINE sailing game (version 1.1.1, rules m12.1). The existing URL is retained so earlier links keep working.
+Full public web release of the WINDLINE sailing game (version 1.2.0, rules m13.0). The existing URL is retained so earlier links keep working.
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
+
+New in 1.2.0: level-based navigation difficulty. Later passages require wider turns: up to 95 degrees at levels 7–10, 130 degrees at levels 12–20, and 165 degrees from level 22 onward. Recovery passages use gentle turns. More validated reef positions and tighter outer spacing make later routes more demanding; actual reef counts depend on available space. The opening passage and safe navigation clearances are preserved.
 
 New in 1.1.1: more varied harbor-to-harbor distances. Consecutive passages prefer a different length while preserving safe arrival, short recovery passages and the original opening. The remaining-distance readout measures the distance to the harbor entry circle, not the center of the island.
 
