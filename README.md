@@ -1,8 +1,10 @@
-# WINDLINE 1.2.0
+# WINDLINE 1.3.0
 
-Full public web release of the WINDLINE sailing game (version 1.2.0, rules m13.0). The existing URL is retained so earlier links keep working.
+Full public web release of the WINDLINE sailing game (version 1.3.0, rules m13.0). The existing URL is retained so earlier links keep working.
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
+
+New in 1.3.0: three instrumental music tracks supplied by the creator. Harbor at Dawn accompanies the title and recovery passages, Windward Horizon accompanies ordinary sailing, and The Turning Tide accompanies challenges and active pirate pursuits. Music loops, crossfades between roles and resumes its previous position. The music-note button controls music and effects together; mute persists across title/restart within the page. Playback begins after interaction and pauses with the game or when the page loses focus.
 
 New in 1.2.0: level-based navigation difficulty. Later passages require wider turns: up to 95 degrees at levels 7–10, 130 degrees at levels 12–20, and 165 degrees from level 22 onward. Recovery passages use gentle turns. More validated reef positions and tighter outer spacing make later routes more demanding; actual reef counts depend on available space. The opening passage and safe navigation clearances are preserved.
 
