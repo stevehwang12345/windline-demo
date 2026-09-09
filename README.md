@@ -1,8 +1,10 @@
-# WINDLINE 1.3.0
+# WINDLINE 1.3.1
 
-Full public web release of the WINDLINE sailing game (version 1.3.0, rules m13.0). The existing URL is retained so earlier links keep working.
+Full public web release of the WINDLINE sailing game (version 1.3.1, rules m13.0). The existing URL is retained so earlier links keep working.
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
+
+New in 1.3.1: more forgiving mobile controls. Direction buttons are 60px tall and tolerate 12px of thumb drift. Moving farther away stops the action; moving back resumes it, and sliding onto the neighboring button changes direction. Release, cancellation, rotation and loss of focus clear the contact. Steering and sail trim remain independent.
 
 New in 1.3.0: three instrumental music tracks supplied by the creator. Harbor at Dawn accompanies the title and recovery passages, Windward Horizon accompanies ordinary sailing, and The Turning Tide accompanies challenges and active pirate pursuits. Music loops, crossfades between roles and resumes its previous position. The music-note button controls music and effects together; mute persists across title/restart within the page. Playback begins after interaction and pauses with the game or when the page loses focus.
 
