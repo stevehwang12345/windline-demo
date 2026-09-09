@@ -4,7 +4,7 @@ Full public web release of the WINDLINE sailing game (version 1.1.1, rules m12.1
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
 
-New in 1.1.1: more varied harbor-to-harbor distances. Consecutive passages prefer a different length while preserving safe arrival, short recovery passages and the original opening.
+New in 1.1.1: more varied harbor-to-harbor distances. Consecutive passages prefer a different length while preserving safe arrival, short recovery passages and the original opening. The remaining-distance readout measures the distance to the harbor entry circle, not the center of the island.
 
 New in 1.1.0: random mermaid, whale and pirate encounters with their own artwork, warning cues and rewards. From passage two, up to one encounter may appear per passage. The opening and recovery passages stay quiet.
 
