@@ -1,8 +1,12 @@
 # WINDLINE — playable demo
 
-Public runtime build of the WINDLINE sailing game (UI m8.8, rules m8.7).
+Public runtime build of the WINDLINE sailing game (mobile UI m10.1, rules m8.7).
 
-A/D or arrows: steer · Q/E: sail angle · Space: sail area.
+Play: https://stevehwang12345.github.io/windline-demo/
+
+Desktop: A/D or arrows to steer, Q/E for sail angle, Space for sail area.
+
+Phone: hold the left arrow buttons to steer, hold the right minus/plus buttons for sail angle, and tap the center button for sail area. Steering and sail angle support simultaneous touches. Both portrait and landscape are supported.
 
 The title screen includes an optional support dialog with the creator's bank details and an account-number copy button.
 
