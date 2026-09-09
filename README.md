@@ -1,10 +1,16 @@
-# WINDLINE 1.0.0
+# WINDLINE 1.1.0
 
-Full public web release of the WINDLINE sailing game (version 1.0.0, rules m11.0). The existing URL is retained so earlier links keep working.
+Full public web release of the WINDLINE sailing game (version 1.1.0, rules m12.0). The existing URL is retained so earlier links keep working.
 
 [Play WINDLINE](https://stevehwang12345.github.io/windline-demo/)
 
-New in 1.0.0: narrower opening reef passages, obstacles across later routes with navigable detours, improved headwind sail handling, and sounds for sail changes, collisions, tacks, acceleration, arrivals, upgrades and mast stress.
+New in 1.1.0: random mermaid, whale and pirate encounters with their own artwork, warning cues and rewards. From passage two, up to one encounter may appear per passage. The opening and recovery passages stay quiet.
+
+- Approach a mermaid within 14 metres for one second to repair the hull, gain a five-second speed boost and earn encounter points.
+- Watch the three-second splash warning and steer clear of a crossing whale. A collision damages and slows the ship once.
+- Pirates pursue from behind. Escape by sailing well, putting reefs in their way, surviving the pursuit or reaching the harbor.
+
+Encounter bonuses appear in the arrival score breakdown. Pause freezes encounters, and the music-note button mutes their effects too. Earlier route obstacles, headwind handling, upgrades and sailing sounds remain available.
 
 Headwind: reduce canvas to REEF and align the sail with the trim guide. Sailing at an angle and tacking remains faster than heading straight into the wind. Use the music-note button to switch wind and sound effects on/off.
 
